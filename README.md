@@ -1,6 +1,8 @@
 # Code Challenge: 
 
-!["Picture"]()
+![](https://raw.githubusercontent.com/twhipple/Coding_Challenge_Simple_Time_Difference/main/Images/yasin-hasan-k5R9SGDAGJc-unsplash.jpg)
+
+*Alarm clocks and time. Source: Yasin Hasan, Upsplash.com*
 
 
 ## Coding_Challenge_Simple_Time_Difference
@@ -32,4 +34,6 @@ This kata was written by: KenKamau
 
 Thank you to Codewars for helping me practice my Python skills.
 
-![]()
+![](https://raw.githubusercontent.com/twhipple/Coding_Challenge_Simple_Time_Difference/main/Images/aron-visuals-BXOXnQ26B7o-unsplash.jpg)
+
+*This code challenge too some time! Source: Aron Visuals, Upsplash.com*
